@@ -1,0 +1,1310 @@
+[
+    {
+        "id": 0,
+        "name": "Agouris,Peggy",
+        "position": "Provost",
+        "researchInterest": null,
+        "email": null,
+        "phone": "",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/news/images/2019/content/agouris-content.jpg",
+        "keywords": [
+            {
+                "id": 174,
+                "name": "ontologies",
+                "score": 44.8985
+            },
+            {
+                "id": 337,
+                "name": "gis",
+                "score": 32.522
+            },
+            {
+                "id": 559,
+                "name": "image analysis",
+                "score": 27.3669
+            },
+            {
+                "id": 1150,
+                "name": "change detection",
+                "score": 32.751
+            },
+            {
+                "id": 1635,
+                "name": "video summarization",
+                "score": 24.2853
+            },
+            {
+                "id": 1858,
+                "name": "data collection",
+                "score": 29.0366
+            },
+            {
+                "id": 3676,
+                "name": "geographic information systems",
+                "score": 101.876
+            },
+            {
+                "id": 3799,
+                "name": "spatial information",
+                "score": 58.5785
+            },
+            {
+                "id": 4352,
+                "name": "semantic integration",
+                "score": 49.4999
+            },
+            {
+                "id": 7200,
+                "name": "similarity metrics",
+                "score": 20.4316
+            },
+            {
+                "id": 8028,
+                "name": "road networks",
+                "score": 25.2255
+            },
+            {
+                "id": 9814,
+                "name": "object extraction",
+                "score": 22.6997
+            },
+            {
+                "id": 16183,
+                "name": "aerial images",
+                "score": 46.1369
+            },
+            {
+                "id": 25954,
+                "name": "urbanization",
+                "score": 23.6043
+            },
+            {
+                "id": 41987,
+                "name": "road",
+                "score": 32.8014
+            },
+            {
+                "id": 48704,
+                "name": "integrator",
+                "score": 29.9577
+            },
+            {
+                "id": 49601,
+                "name": "research challenges",
+                "score": 86.1408
+            }
+        ],
+        "publications": [
+            9379453,
+            38697786,
+            45886936,
+            72949384,
+            128007856,
+            138430749,
+            144621260,
+            147663884,
+            159560563,
+            414863039,
+            1136511103,
+            1167790325,
+            1486935304,
+            1490968253,
+            1497629672,
+            1503224383,
+            1508228089,
+            1514105976,
+            1518629952,
+            1535457297,
+            1537170576,
+            1543457884,
+            1547458974,
+            1560992139,
+            1564832586,
+            1565999989,
+            1570671995,
+            1570913032,
+            1576138320,
+            1585016245,
+            1605726620,
+            1686957412,
+            1847404207,
+            1870237218,
+            1885141799,
+            1930962002,
+            1971033226,
+            1985418553,
+            1987821235,
+            2003383289,
+            2010761065,
+            2018354678,
+            2018463030,
+            2021499790,
+            2030928154,
+            2032545714,
+            2032900028,
+            2036194092,
+            2047275537,
+            2048723266,
+            2056601022,
+            2057347749,
+            2064123234,
+            2076938548,
+            2078843467,
+            2087402994,
+            2092775680,
+            2097379551,
+            2099980910,
+            2104152838,
+            2108070501,
+            2113159123,
+            2114043354,
+            2118506665,
+            2121607994,
+            2122013955,
+            2133409295,
+            2139838529,
+            2142300461,
+            2147459949,
+            2151137293,
+            2151446246,
+            2155389771,
+            2155755829,
+            2167075585,
+            2181695980,
+            2183570523,
+            2188154484,
+            2281333985,
+            2338675169,
+            2486495971,
+            2505178012,
+            2521601500,
+            2525460595,
+            2575020676,
+            2590700159,
+            2792491666,
+            2900024009,
+            2902847683,
+            2913905359,
+            2984957981
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Chaparro,Oscar",
+        "position": "Assistant Professor",
+        "researchInterest": null,
+        "email": null,
+        "phone": "",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience//images/csfaculty/chaparro_oscar.jpg",
+        "keywords": [
+            {
+                "id": 278,
+                "name": "relevance feedback",
+                "score": 2.93473
+            },
+            {
+                "id": 753,
+                "name": "average precision",
+                "score": 1.81884
+            },
+            {
+                "id": 4312,
+                "name": "text retrieval",
+                "score": 3.18445
+            },
+            {
+                "id": 5296,
+                "name": "documentation",
+                "score": 3.79435
+            },
+            {
+                "id": 5602,
+                "name": "query reformulation",
+                "score": 2.24515
+            },
+            {
+                "id": 10362,
+                "name": "initial query",
+                "score": 1.55956
+            },
+            {
+                "id": 12354,
+                "name": "information needs",
+                "score": 9.58108
+            },
+            {
+                "id": 14199,
+                "name": "queries",
+                "score": 2.51624
+            },
+            {
+                "id": 19201,
+                "name": "practices",
+                "score": 2.04897
+            },
+            {
+                "id": 19328,
+                "name": "consumers",
+                "score": 3.18813
+            },
+            {
+                "id": 20321,
+                "name": "experts",
+                "score": 4.8955
+            },
+            {
+                "id": 24058,
+                "name": "paradigm shift",
+                "score": 5.59797
+            },
+            {
+                "id": 26828,
+                "name": "developers",
+                "score": 15.2139
+            },
+            {
+                "id": 38872,
+                "name": "bug reports",
+                "score": 41.5017
+            },
+            {
+                "id": 47322,
+                "name": "bugs",
+                "score": 13.2177
+            },
+            {
+                "id": 47324,
+                "name": "software documentation",
+                "score": 13.5299
+            },
+            {
+                "id": 53332,
+                "name": "bug",
+                "score": 5.11379
+            }
+        ],
+        "publications": [
+            2741600166,
+            2767563557,
+            2767720884,
+            2908872804,
+            2922023100,
+            2952844358,
+            2967289945,
+            3027993363,
+            3100403944,
+            3101622575
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Davis,Tim",
+        "position": "Lecturer",
+        "researchInterest": null,
+        "email": "tadavis@cs.wm.edu",
+        "phone": ": 757-221-3436",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience/images/csfaculty/davis_tim.jpg",
+        "keywords": [
+            {
+                "id": 908,
+                "name": "programming language",
+                "score": 171.108
+            },
+            {
+                "id": 914,
+                "name": "matrix factorization",
+                "score": 241.117
+            },
+            {
+                "id": 1245,
+                "name": "computer graphics",
+                "score": 257.776
+            },
+            {
+                "id": 1419,
+                "name": "computational fluid dynamics",
+                "score": 270.529
+            },
+            {
+                "id": 1662,
+                "name": "matlab",
+                "score": 256.337
+            },
+            {
+                "id": 1668,
+                "name": "data structures",
+                "score": 273.977
+            },
+            {
+                "id": 2316,
+                "name": "sparse matrix",
+                "score": 1036.91
+            },
+            {
+                "id": 2995,
+                "name": "memory usage",
+                "score": 308.042
+            },
+            {
+                "id": 3405,
+                "name": "cholesky factorization",
+                "score": 490.047
+            },
+            {
+                "id": 7235,
+                "name": "numerical stability",
+                "score": 242.486
+            },
+            {
+                "id": 10231,
+                "name": "numerical linear algebra",
+                "score": 426.893
+            },
+            {
+                "id": 14313,
+                "name": "mathematica",
+                "score": 376.192
+            },
+            {
+                "id": 14797,
+                "name": "circuit simulation",
+                "score": 188.103
+            },
+            {
+                "id": 22297,
+                "name": "bibliography",
+                "score": 174.836
+            },
+            {
+                "id": 47704,
+                "name": "online search",
+                "score": 209.044
+            },
+            {
+                "id": 49709,
+                "name": "orderings",
+                "score": 198.573
+            },
+            {
+                "id": 73168,
+                "name": "symmetric positive definite matrices",
+                "score": 199.978
+            }
+        ],
+        "publications": [
+            25664821,
+            45218706,
+            65676325,
+            130269760,
+            138787272,
+            156354643,
+            157712030,
+            166046872,
+            167361754,
+            1520511539,
+            1968116929,
+            1970517385,
+            1971882778,
+            1979889135,
+            1982355466,
+            1987902628,
+            1996292746,
+            2007476635,
+            2014730252,
+            2021869025,
+            2024622349,
+            2035080386,
+            2036438040,
+            2042170876,
+            2044559999,
+            2049064539,
+            2050448951,
+            2051917325,
+            2053999255,
+            2068543948,
+            2069245506,
+            2074093855,
+            2082222857,
+            2088160222,
+            2089024363,
+            2098150598,
+            2118076222,
+            2119768925,
+            2137402550,
+            2151372276,
+            2153569957,
+            2154418425,
+            2167797964,
+            2183156981,
+            2229157217,
+            2254204896,
+            2269629783,
+            2270904185,
+            2303662668,
+            2314419981,
+            2325490498,
+            2340153051,
+            2373537127,
+            2397636522,
+            2444544770,
+            2465757400,
+            2475555533,
+            2475806674,
+            2476285885,
+            2478041053,
+            2478354787,
+            2478913992,
+            2479836097,
+            2482051304,
+            2482451094,
+            2484103016,
+            2484345801,
+            2485982967,
+            2488232472,
+            2488444656,
+            2491071162,
+            2492660210,
+            2493546065,
+            2493770458,
+            2495739078,
+            2498938713,
+            2500410535,
+            2500462700,
+            2500818440,
+            2500850504,
+            2502339983,
+            2505466075,
+            2506315080,
+            2507072453,
+            2555745567,
+            2769686377,
+            2775045356,
+            2790106184,
+            2801326557,
+            2887666076,
+            2903237845,
+            2921480401,
+            2943080260,
+            2946352703,
+            2946746299,
+            2965423625,
+            2976339636,
+            2990689488,
+            2995872593,
+            3003074570,
+            3004141020,
+            3009491659,
+            3009867679,
+            3011875640,
+            3023530019,
+            3041597853,
+            3046746438,
+            3083888738,
+            3099960888,
+            3102070713,
+            3103778089,
+            3107316479,
+            3116465862,
+            3116915037
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Deverick,James",
+        "position": "Senior Lecturer",
+        "researchInterest": null,
+        "email": "jwdeve@cs.wm.edu",
+        "phone": ": 757-221-3454",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience/images/csfaculty/deverick_j.jpg",
+        "keywords": [
+            {
+                "id": 9,
+                "name": "security",
+                "score": 0.0
+            },
+            {
+                "id": 2171,
+                "name": "data science",
+                "score": 0.21093
+            },
+            {
+                "id": 2871,
+                "name": "python",
+                "score": 0.150429
+            },
+            {
+                "id": 5873,
+                "name": "open-source",
+                "score": 0.0949385
+            },
+            {
+                "id": 6252,
+                "name": "ecology",
+                "score": 0.123257
+            },
+            {
+                "id": 6633,
+                "name": "collaborative",
+                "score": 0.058345
+            },
+            {
+                "id": 7391,
+                "name": "firewall",
+                "score": 0.0
+            },
+            {
+                "id": 9182,
+                "name": "wrapper",
+                "score": 0.0
+            },
+            {
+                "id": 10108,
+                "name": "biology",
+                "score": 0.050931
+            },
+            {
+                "id": 11055,
+                "name": "computer programming",
+                "score": 0.922239
+            },
+            {
+                "id": 11381,
+                "name": "server",
+                "score": 0.0
+            },
+            {
+                "id": 12051,
+                "name": "toolkit",
+                "score": 0.0
+            },
+            {
+                "id": 13754,
+                "name": "complex data",
+                "score": 0.104029
+            },
+            {
+                "id": 16265,
+                "name": "forwarding",
+                "score": 0.0
+            },
+            {
+                "id": 19864,
+                "name": "scientific research",
+                "score": 0.284901
+            },
+            {
+                "id": 45086,
+                "name": "resource access",
+                "score": 0.0
+            },
+            {
+                "id": 57049,
+                "name": "network resources",
+                "score": 0.0
+            },
+            {
+                "id": 70098,
+                "name": "access protocols",
+                "score": 0.0
+            }
+        ],
+        "publications": [
+            1533914088,
+            2986407279
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Evtyushkin,Dmitry",
+        "position": "Assistant Professor",
+        "researchInterest": null,
+        "email": "dmitry@cs.wm.edu",
+        "phone": ": 757-221-3465",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://lh3.googleusercontent.com/proxy/u9SXngcCSZvIEqWP37DtJVxQ2tIuiPtReJ62LrweyHVzrEhUcW97UhbSQooKQDihHw-Q-WLQajLzmiu-Il__0U1PmeXwPIOWEXrFgtgjutJ8MUnz",
+        "keywords": [
+            {
+                "id": 890,
+                "name": "covert channel",
+                "score": 22.3245
+            },
+            {
+                "id": 1352,
+                "name": "address space",
+                "score": 9.36075
+            },
+            {
+                "id": 2091,
+                "name": "vulnerability",
+                "score": 8.42394
+            },
+            {
+                "id": 2247,
+                "name": "execution environment",
+                "score": 12.6733
+            },
+            {
+                "id": 2932,
+                "name": "attacks",
+                "score": 20.8789
+            },
+            {
+                "id": 3386,
+                "name": "virtual memory",
+                "score": 25.2671
+            },
+            {
+                "id": 3396,
+                "name": "randomization",
+                "score": 13.0831
+            },
+            {
+                "id": 6186,
+                "name": "speculative execution",
+                "score": 19.5051
+            },
+            {
+                "id": 12669,
+                "name": "instruction",
+                "score": 16.8795
+            },
+            {
+                "id": 26607,
+                "name": "adversary",
+                "score": 9.26911
+            },
+            {
+                "id": 33254,
+                "name": "processor",
+                "score": 27.1451
+            },
+            {
+                "id": 33995,
+                "name": "attacker",
+                "score": 34.226
+            },
+            {
+                "id": 39281,
+                "name": "system software",
+                "score": 14.7656
+            },
+            {
+                "id": 42252,
+                "name": "hardware performance counters",
+                "score": 8.7261
+            },
+            {
+                "id": 42479,
+                "name": "predictors",
+                "score": 15.4812
+            },
+            {
+                "id": 53464,
+                "name": "secret communication",
+                "score": 15.8397
+            },
+            {
+                "id": 62853,
+                "name": "victim",
+                "score": 24.6196
+            }
+        ],
+        "publications": [
+            146324612,
+            2011491452,
+            2057949999,
+            2299561166,
+            2498412850,
+            2537031054,
+            2564856904,
+            2602229646,
+            2775587745,
+            2791034507,
+            2808110847,
+            2900479912,
+            2917413563,
+            2964281551,
+            2964590009,
+            3010786541
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Hu,Tianran",
+        "position": "Assistant Professor",
+        "researchInterest": null,
+        "email": null,
+        "phone": "http://www.cs.wm.edu/~thu",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience/images/csfaculty/hu_tianran",
+        "keywords": [
+            {
+                "id": 3,
+                "name": "deep learning",
+                "score": 6.03122
+            },
+            {
+                "id": 54,
+                "name": "social media",
+                "score": 56.6644
+            },
+            {
+                "id": 90,
+                "name": "user experience",
+                "score": 7.40101
+            },
+            {
+                "id": 223,
+                "name": "twitter",
+                "score": 19.4751
+            },
+            {
+                "id": 483,
+                "name": "software engineer",
+                "score": 3.07584
+            },
+            {
+                "id": 501,
+                "name": "latent dirichlet allocation",
+                "score": 3.25749
+            },
+            {
+                "id": 2258,
+                "name": "social computing",
+                "score": 4.64473
+            },
+            {
+                "id": 17624,
+                "name": "customer",
+                "score": 5.60484
+            },
+            {
+                "id": 21286,
+                "name": "mobility data",
+                "score": 2.958
+            },
+            {
+                "id": 21372,
+                "name": "chat",
+                "score": 4.15363
+            },
+            {
+                "id": 22205,
+                "name": "tweet",
+                "score": 3.48211
+            },
+            {
+                "id": 24161,
+                "name": "linkedin",
+                "score": 3.1392
+            },
+            {
+                "id": 24444,
+                "name": "city",
+                "score": 5.34183
+            },
+            {
+                "id": 43794,
+                "name": "cues",
+                "score": 2.9436
+            },
+            {
+                "id": 51190,
+                "name": "messages",
+                "score": 4.64959
+            },
+            {
+                "id": 69644,
+                "name": "negative binomial regression",
+                "score": 6.69189
+            },
+            {
+                "id": 74936,
+                "name": "hypothesis tests",
+                "score": 5.06875
+            }
+        ],
+        "publications": [
+            1841910326,
+            2083581777,
+            2296105616,
+            2296505857,
+            2409625326,
+            2444492025,
+            2536648533,
+            2542146885,
+            2556278569,
+            2567692034,
+            2576718852,
+            2604337820,
+            2604944277,
+            2783222622,
+            2790533218,
+            2793761508,
+            2797785016,
+            2897456688,
+            2911250325,
+            2950211925,
+            2950827784,
+            2950944366,
+            2951866806,
+            2956149237,
+            2963036438,
+            2963175601,
+            2963270767,
+            2963370879,
+            2963693353,
+            2998392339,
+            3003238303,
+            3006975632
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jog,Adwait",
+        "position": "Assistant Professor",
+        "researchInterest": null,
+        "email": "ajog@wm.edu",
+        "phone": ": 757-221-1434",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience/images/csfaculty/jog_career_1.jpg",
+        "keywords": [
+            {
+                "id": 152,
+                "name": "gpu",
+                "score": 45.6192
+            },
+            {
+                "id": 791,
+                "name": "gpgpu",
+                "score": 53.5578
+            },
+            {
+                "id": 1219,
+                "name": "parallelism",
+                "score": 36.9369
+            },
+            {
+                "id": 1993,
+                "name": "latency",
+                "score": 70.093
+            },
+            {
+                "id": 2346,
+                "name": "memory bandwidth",
+                "score": 60.3567
+            },
+            {
+                "id": 3271,
+                "name": "cache",
+                "score": 36.7425
+            },
+            {
+                "id": 8001,
+                "name": "graphics processing units",
+                "score": 97.6817
+            },
+            {
+                "id": 10162,
+                "name": "programming models",
+                "score": 38.255
+            },
+            {
+                "id": 10226,
+                "name": "network congestion",
+                "score": 23.0786
+            },
+            {
+                "id": 10435,
+                "name": "performance improvement",
+                "score": 27.3493
+            },
+            {
+                "id": 14648,
+                "name": "cache hierarchy",
+                "score": 65.4185
+            },
+            {
+                "id": 17200,
+                "name": "high throughput",
+                "score": 35.3746
+            },
+            {
+                "id": 39358,
+                "name": "multi-core systems",
+                "score": 35.4345
+            },
+            {
+                "id": 43285,
+                "name": "thread-level parallelism",
+                "score": 100.948
+            },
+            {
+                "id": 48871,
+                "name": "scheduling policies",
+                "score": 62.7418
+            },
+            {
+                "id": 69253,
+                "name": "inefficiency",
+                "score": 54.6318
+            },
+            {
+                "id": 74246,
+                "name": "gpu architecture",
+                "score": 26.6878
+            }
+        ],
+        "publications": [
+            1464193831,
+            1973573211,
+            1983235612,
+            1996952511,
+            2006197381,
+            2047379549,
+            2048441570,
+            2079248286,
+            2142119745,
+            2142444503,
+            2271604353,
+            2412101011,
+            2418692044,
+            2513900365,
+            2517869808,
+            2528829870,
+            2548265654,
+            2549243276,
+            2554192763,
+            2611998574,
+            2737860710,
+            2746275123,
+            2793599434,
+            2794653104,
+            2795326697,
+            2799491947,
+            2898977042,
+            2904948956,
+            2905075051,
+            2905658624,
+            2950142771,
+            2951091066,
+            2969362550,
+            2979938104,
+            2984139344,
+            3010779417,
+            3012032150,
+            3017245021,
+            3042418709,
+            3089469538,
+            3104613759
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Kemper,Peter",
+        "position": "Associate Professor",
+        "researchInterest": null,
+        "email": "kemper@cs.wm.edu",
+        "phone": ": 757-221-3462",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://lh3.googleusercontent.com/proxy/x1Mg-vkO0x8EpHUs2JCMSlTw_C71hnxmRDuoyU885LMssP7sGzXydJPmLip_tKNZ_m-O9cH3k-nWx2E",
+        "keywords": [
+            {
+                "id": 236,
+                "name": "supply chain",
+                "score": 22.9593
+            },
+            {
+                "id": 2117,
+                "name": "combinatorial optimization problem",
+                "score": 19.0934
+            },
+            {
+                "id": 4109,
+                "name": "queueing",
+                "score": 30.0146
+            },
+            {
+                "id": 5566,
+                "name": "performance measures",
+                "score": 63.9866
+            },
+            {
+                "id": 5998,
+                "name": "polynomial-time algorithm",
+                "score": 21.1222
+            },
+            {
+                "id": 6144,
+                "name": "sparse matrices",
+                "score": 34.4826
+            },
+            {
+                "id": 6332,
+                "name": "dynamic systems",
+                "score": 23.065
+            },
+            {
+                "id": 6828,
+                "name": "stochastic petri nets",
+                "score": 82.9645
+            },
+            {
+                "id": 8205,
+                "name": "markov models",
+                "score": 120.689
+            },
+            {
+                "id": 9212,
+                "name": "stochastic models",
+                "score": 21.1924
+            },
+            {
+                "id": 9325,
+                "name": "process algebras",
+                "score": 35.5705
+            },
+            {
+                "id": 15057,
+                "name": "non-linear optimization",
+                "score": 16.9088
+            },
+            {
+                "id": 15305,
+                "name": "generator matrix",
+                "score": 32.7346
+            },
+            {
+                "id": 28151,
+                "name": "continuous-time markov chain",
+                "score": 62.7421
+            },
+            {
+                "id": 36117,
+                "name": "stochastic automata",
+                "score": 57.7906
+            },
+            {
+                "id": 63192,
+                "name": "state spaces",
+                "score": 17.4812
+            },
+            {
+                "id": 76740,
+                "name": "iterative analysis",
+                "score": 30.0519
+            }
+        ],
+        "publications": [
+            20432018,
+            41657860,
+            49450320,
+            91336491,
+            199511314,
+            593458590,
+            1482993605,
+            1484000742,
+            1484092460,
+            1489913013,
+            1490014251,
+            1505796501,
+            1509323564,
+            1530590541,
+            1563959012,
+            1591563876,
+            1726385401,
+            1784183156,
+            1846780041,
+            1949933770,
+            1954580868,
+            1965492307,
+            1966353357,
+            1977722682,
+            1997128351,
+            2021467910,
+            2031284254,
+            2036382534,
+            2038886039,
+            2053505917,
+            2053510768,
+            2055287110,
+            2067463757,
+            2069730675,
+            2075490956,
+            2079906829,
+            2087748018,
+            2095917530,
+            2096252658,
+            2096843787,
+            2102840360,
+            2103339842,
+            2107424505,
+            2107561541,
+            2108715323,
+            2109272260,
+            2110928458,
+            2113092877,
+            2118129665,
+            2118662970,
+            2119003854,
+            2120517377,
+            2123358188,
+            2124381747,
+            2126835091,
+            2135142990,
+            2135452706,
+            2136685010,
+            2139386234,
+            2144773448,
+            2147976131,
+            2148480551,
+            2153758492,
+            2153976524,
+            2156940341,
+            2157151824,
+            2157789269,
+            2158458407,
+            2159685251,
+            2160491751,
+            2163652158,
+            2183255032,
+            2278523429,
+            2294142792,
+            2324303576,
+            2560860911,
+            2561744082,
+            2563916272,
+            2566550847,
+            2573733045,
+            2617602457,
+            2655760278,
+            2711898527,
+            2733125469,
+            2777482913,
+            2784330536,
+            2804204477,
+            2888753267,
+            2939775300,
+            2950158313,
+            2986407279,
+            3007798423,
+            3016614282
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Khargonkar,Arohi",
+        "position": "Lecturer",
+        "researchInterest": null,
+        "email": "aakhargonkar@wm.edu",
+        "phone": null,
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as/computerscience//images/csfaculty/khargonkar_arohi.jpg",
+        "keywords": [],
+        "publications": []
+    },
+    {
+        "id": 9,
+        "name": "Kumar,Pradeep",
+        "position": "Assistant Professor",
+        "researchInterest": null,
+        "email": null,
+        "phone": ": 757-221-3992",
+        "affiliation": {
+            "id": 0,
+            "name": "College of William Mary",
+            "photoUrl": "https://www.wm.edu/img/wm_vertical_single_line_full_color.png"
+        },
+        "photoUrl": "https://www.wm.edu/as//computerscience/images/csfaculty/kumar_pradeep.jpg",
+        "keywords": [
+            {
+                "id": 28,
+                "name": "big data",
+                "score": 0.125843
+            },
+            {
+                "id": 2678,
+                "name": "analytics",
+                "score": 0.0806773
+            },
+            {
+                "id": 4485,
+                "name": "dynamic graph",
+                "score": 0.126675
+            },
+            {
+                "id": 5861,
+                "name": "graph databases",
+                "score": 0.108844
+            },
+            {
+                "id": 6350,
+                "name": "data abstraction",
+                "score": 0.0533818
+            },
+            {
+                "id": 23527,
+                "name": "adjacency",
+                "score": 0.0440398
+            },
+            {
+                "id": 26468,
+                "name": "graph analytics",
+                "score": 0.218798
+            },
+            {
+                "id": 30210,
+                "name": "real-time analytics",
+                "score": 0.18623
+            },
+            {
+                "id": 44327,
+                "name": "current graph",
+                "score": 0.055512
+            }
+        ],
+        "publications": [
+            3013987090
+        ]
+    }
+]

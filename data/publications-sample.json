@@ -1,0 +1,496 @@
+[
+    {
+        "id": 21366,
+        "title": "Improving client throughput with multi-hop relaying in wireless mesh networks",
+        "venue": "Improving client throughput with multi-hop relaying in wireless mesh networks ",
+        "year": 2008,
+        "numCitations": 2,
+        "keywords": [
+            {
+                "id": 406,
+                "name": "internet",
+                "score": 0.186815
+            },
+            {
+                "id": 846,
+                "name": "power control",
+                "score": 0.190601
+            },
+            {
+                "id": 1379,
+                "name": "wireless mesh networks",
+                "score": 0.363967
+            },
+            {
+                "id": 6997,
+                "name": "signal strength",
+                "score": 0.205363
+            },
+            {
+                "id": 8857,
+                "name": "spatial reuse",
+                "score": 0.196315
+            },
+            {
+                "id": 13682,
+                "name": "mac layer",
+                "score": 0.252344
+            },
+            {
+                "id": 26673,
+                "name": "client",
+                "score": 0.143222
+            },
+            {
+                "id": 56308,
+                "name": "access points",
+                "score": 0.0985272
+            },
+            {
+                "id": 59312,
+                "name": "leverage",
+                "score": 0.176985
+            }
+        ]
+    },
+    {
+        "id": 21805,
+        "title": "On system rollback and totalized fields: An algebraic approach to system change",
+        "venue": "The Journal of Logic and Algebraic Programming",
+        "year": 2011,
+        "numCitations": 6,
+        "keywords": [
+            {
+                "id": 2309,
+                "name": "language",
+                "score": 0.00465382
+            },
+            {
+                "id": 2600,
+                "name": "change management",
+                "score": 0.561669
+            },
+            {
+                "id": 6752,
+                "name": "algebraic approach",
+                "score": 0.478437
+            },
+            {
+                "id": 9278,
+                "name": "confusion",
+                "score": 0.0119003
+            },
+            {
+                "id": 14444,
+                "name": "recent work",
+                "score": 0.00431969
+            },
+            {
+                "id": 15377,
+                "name": "operations",
+                "score": 0.00330455
+            },
+            {
+                "id": 24075,
+                "name": "division",
+                "score": 0.00801736
+            },
+            {
+                "id": 26383,
+                "name": "options",
+                "score": 0.00675612
+            },
+            {
+                "id": 48584,
+                "name": "error-correction",
+                "score": 0.629703
+            }
+        ]
+    },
+    {
+        "id": 27071,
+        "title": "Hierarchical Back-Face Culling",
+        "venue": null,
+        "year": 1996,
+        "numCitations": 22,
+        "keywords": [
+            {
+                "id": 3939,
+                "name": "hardware",
+                "score": 0.00363708
+            },
+            {
+                "id": 9314,
+                "name": "graphics",
+                "score": 0.251208
+            },
+            {
+                "id": 10435,
+                "name": "performance improvement",
+                "score": 0.250498
+            },
+            {
+                "id": 11788,
+                "name": "frame rate",
+                "score": 0.208498
+            },
+            {
+                "id": 14621,
+                "name": "hierarchies",
+                "score": 0.00359393
+            },
+            {
+                "id": 16014,
+                "name": "linear algorithm",
+                "score": 0.350686
+            },
+            {
+                "id": 18024,
+                "name": "constant time",
+                "score": 0.118258
+            },
+            {
+                "id": 18389,
+                "name": "polygons",
+                "score": 0.00825946
+            },
+            {
+                "id": 63223,
+                "name": "cpu time",
+                "score": 0.309421
+            }
+        ]
+    },
+    {
+        "id": 43295,
+        "title": "Confocal laser scanning ophthalmoscope. Reproducibility of optic nerve head topographic measurements with the confocal laser scanning ophthalmoscope.",
+        "venue": "Ophthalmology",
+        "year": 1993,
+        "numCitations": 159,
+        "keywords": [
+            {
+                "id": 3241,
+                "name": "retinal image",
+                "score": 0.352231
+            },
+            {
+                "id": 3990,
+                "name": "reproducibility",
+                "score": 0.263967
+            },
+            {
+                "id": 5635,
+                "name": "confidence interval",
+                "score": 0.183598
+            },
+            {
+                "id": 6632,
+                "name": "glaucoma",
+                "score": 0.365733
+            },
+            {
+                "id": 8415,
+                "name": "laser scanning",
+                "score": 0.434211
+            },
+            {
+                "id": 21631,
+                "name": "pilot study",
+                "score": 0.229354
+            },
+            {
+                "id": 29278,
+                "name": "optic nerve head",
+                "score": 0.43835
+            },
+            {
+                "id": 44877,
+                "name": "volunteers",
+                "score": 0.1256
+            },
+            {
+                "id": 63206,
+                "name": "progression",
+                "score": 0.143398
+            }
+        ]
+    },
+    {
+        "id": 57330,
+        "title": "Spectral Sparsification in Dynamic Graph Streams",
+        "venue": "APPROX-RANDOM",
+        "year": 2013,
+        "numCitations": 31,
+        "keywords": [
+            {
+                "id": 324,
+                "name": "data stream",
+                "score": 0.218982
+            },
+            {
+                "id": 4485,
+                "name": "dynamic graph",
+                "score": 0.542724
+            },
+            {
+                "id": 10050,
+                "name": "unweighted graph",
+                "score": 0.404694
+            },
+            {
+                "id": 12877,
+                "name": "edge connectivity",
+                "score": 0.375342
+            },
+            {
+                "id": 28586,
+                "name": "combinatorial",
+                "score": 0.00494221
+            },
+            {
+                "id": 51158,
+                "name": "spectral information",
+                "score": 0.212357
+            },
+            {
+                "id": 63454,
+                "name": "effective resistance",
+                "score": 0.32465
+            },
+            {
+                "id": 71854,
+                "name": "sampling probability",
+                "score": 0.220698
+            },
+            {
+                "id": 73620,
+                "name": "independent interest",
+                "score": 0.00463361
+            }
+        ]
+    },
+    {
+        "id": 63752,
+        "title": "Computational Challenges in Propositional Reasoning and Search",
+        "venue": null,
+        "year": 2007,
+        "numCitations": 2,
+        "keywords": []
+    },
+    {
+        "id": 69399,
+        "title": "Automatically proving the correctness of program analyses and transformations",
+        "venue": null,
+        "year": 2006,
+        "numCitations": 3,
+        "keywords": [
+            {
+                "id": 1638,
+                "name": "redundancy",
+                "score": 0.256606
+            },
+            {
+                "id": 3539,
+                "name": "execution engine",
+                "score": 0.362466
+            },
+            {
+                "id": 4047,
+                "name": "correctness",
+                "score": 0.303663
+            },
+            {
+                "id": 4132,
+                "name": "domain-specific language",
+                "score": 0.32623
+            },
+            {
+                "id": 5532,
+                "name": "dataflow",
+                "score": 0.299943
+            },
+            {
+                "id": 18246,
+                "name": "automatic theorem prover",
+                "score": 0.606195
+            },
+            {
+                "id": 20410,
+                "name": "compiler optimizations",
+                "score": 0.595746
+            },
+            {
+                "id": 21360,
+                "name": "optimizations",
+                "score": 0.410229
+            },
+            {
+                "id": 24928,
+                "name": "transformation rules",
+                "score": 0.310077
+            }
+        ]
+    },
+    {
+        "id": 78665,
+        "title": "Refactoring tools: report on the 1st workshop WRT at ECOOP 2007",
+        "venue": "ECOOP'07 Proceedings of the 2007 conference on Object-oriented technology",
+        "year": 2007,
+        "numCitations": 0,
+        "keywords": [
+            {
+                "id": 5554,
+                "name": "industry",
+                "score": 0.000311063
+            },
+            {
+                "id": 10498,
+                "name": "eclipse",
+                "score": 0.00043803
+            },
+            {
+                "id": 11344,
+                "name": "work",
+                "score": -0.000261731
+            },
+            {
+                "id": 13509,
+                "name": "germany",
+                "score": 0.18647
+            },
+            {
+                "id": 21420,
+                "name": "future",
+                "score": -0.000387165
+            },
+            {
+                "id": 24749,
+                "name": "academia",
+                "score": 0.0830577
+            },
+            {
+                "id": 26828,
+                "name": "developers",
+                "score": 0.0235696
+            },
+            {
+                "id": 27512,
+                "name": "poster session",
+                "score": 0.109282
+            },
+            {
+                "id": 40541,
+                "name": "researchers",
+                "score": -1.78339e-05
+            }
+        ]
+    },
+    {
+        "id": 93138,
+        "title": "An Architectural Characterization of Prolog Execution",
+        "venue": null,
+        "year": 1991,
+        "numCitations": 0,
+        "keywords": [
+            {
+                "id": 925,
+                "name": "abstract machine",
+                "score": 0.289565
+            },
+            {
+                "id": 2173,
+                "name": "prolog",
+                "score": 0.345825
+            },
+            {
+                "id": 7253,
+                "name": "tag",
+                "score": 0.152151
+            },
+            {
+                "id": 10435,
+                "name": "performance improvement",
+                "score": 0.329837
+            },
+            {
+                "id": 12347,
+                "name": "functionality",
+                "score": 0.00492237
+            },
+            {
+                "id": 16498,
+                "name": "lisp",
+                "score": 0.332747
+            },
+            {
+                "id": 28338,
+                "name": "execution",
+                "score": 0.205055
+            },
+            {
+                "id": 38422,
+                "name": "data dependencies",
+                "score": 0.376536
+            },
+            {
+                "id": 61676,
+                "name": "instruction set",
+                "score": 0.35581
+            }
+        ]
+    },
+    {
+        "id": 93644,
+        "title": "Fixed Points in Metric Spaces",
+        "venue": null,
+        "year": 1986,
+        "numCitations": 0,
+        "keywords": [
+            {
+                "id": 2074,
+                "name": "syntax tree",
+                "score": 0.31366
+            },
+            {
+                "id": 4764,
+                "name": "syntax",
+                "score": 0.340665
+            },
+            {
+                "id": 7889,
+                "name": "metric spaces",
+                "score": 0.0122732
+            },
+            {
+                "id": 11713,
+                "name": "assertion",
+                "score": 0.296838
+            },
+            {
+                "id": 15210,
+                "name": "context-free grammar",
+                "score": 0.325236
+            },
+            {
+                "id": 21929,
+                "name": "unique fixed point",
+                "score": 0.402846
+            },
+            {
+                "id": 27350,
+                "name": "classical result",
+                "score": 0.301977
+            },
+            {
+                "id": 28338,
+                "name": "execution",
+                "score": 0.19386
+            },
+            {
+                "id": 37574,
+                "name": "infinite tree",
+                "score": 0.315238
+            }
+        ]
+    }
+]
